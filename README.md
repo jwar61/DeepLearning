@@ -1,6 +1,6 @@
 # DeepLearning
 ## Project Overview
-This repository contains the creation application of Artificial Neuron Network (ANN) focused on developing efficient deep learning models for  galaxy and star's image classification. 
+This repository contains the creation and application of Artificial Neuron Network (ANN) focused on developing efficient deep learning models for  galaxy and stars image classification. 
 
 ### File Details in this Repository:
 
