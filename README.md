@@ -23,5 +23,5 @@ This repository contains the creation and application of Artificial Neuron Netwo
 ### Class Distribution
 | Category | Training Samples | Test Samples |
 |----------|------------------|--------------|
-| **Galaxy** | 3,544 | 887 | 
+| **Galaxy** | 3,355 | 887 | 
 | **Stars** | 1,070 | 268 | 
