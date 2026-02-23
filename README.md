@@ -16,6 +16,7 @@ This repository contains the creation and application of Artificial Neuron Netwo
 ## Dataset Information 
 
 ### Original Dataset
+  - **Source:** [Star-Galaxy Classification Data](https://www.kaggle.com/datasets/divyansh22/dummy-astronomy-data)
   - **Size:** 4028 images total
   - **Dimensions:** 24×24x3
   - **Format:** NumPy arrays
@@ -23,5 +24,5 @@ This repository contains the creation and application of Artificial Neuron Netwo
 ### Class Distribution
 | Category | Training Samples | Test Samples |
 |----------|------------------|--------------|
-| **Galaxy** | 3,355 | 887 | 
-| **Stars** | 1,070 | 268 | 
+| **Galaxy** | 794 | 160 | 
+| **Stars** | 2,548 | 512 | 
